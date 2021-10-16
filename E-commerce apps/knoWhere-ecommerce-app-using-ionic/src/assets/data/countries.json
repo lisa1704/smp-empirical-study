@@ -1,0 +1,9 @@
+{
+   "countries": [
+        {"country_id": "AUS", "country_title": "Australia (AUS)"},
+        {"country_id": "CAN", "country_title": "Canada (CA)"},
+        {"country_id": "IND", "country_title": "India (IN)"},
+        {"country_id": "UK", "country_title": "United Kingdom (UK)"},
+        {"country_id": "USA", "country_title": "United States of America (US)"}
+    ]
+}

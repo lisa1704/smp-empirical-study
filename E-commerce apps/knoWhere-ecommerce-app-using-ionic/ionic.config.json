@@ -1,0 +1,7 @@
+{
+  "name": "knowhere",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
